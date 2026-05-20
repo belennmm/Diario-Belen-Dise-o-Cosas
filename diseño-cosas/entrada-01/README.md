@@ -1,4 +1,4 @@
-# Entrada 01: Microondas con panel poco intuitivo
+# Entrada 01: Microondas 
 
 ![Fotografía del microondas](./microondas.png)
 
