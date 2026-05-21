@@ -1,7 +1,7 @@
 # Entrada 02: Sitio web de Meykos
 
 
-![Captura de pantalla Meykos 5](./meykos-5.png)
+![Meykos](./portadamey.png)
 
 ## Categoría
 
@@ -14,6 +14,8 @@ Usabilidad
 ## Interfaz analizada
 
 Sitio web de Meykos Guatemala.
+![Captura de pantalla Meykos 5](./meykos-5.png)
+
 
 ## Contexto
 

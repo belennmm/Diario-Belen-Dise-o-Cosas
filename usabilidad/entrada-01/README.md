@@ -1,6 +1,6 @@
 # Entrada 01: Sitio web de Zara 
 
-![Captura de pantalla de Zara 1](./zara-1.png)
+![Zara 1](./portadazara.png)
 
 
 ## Categoría
@@ -14,6 +14,9 @@ Usabilidad
 ## Interfaz analizada
 
 Sitio web de Zara Guatemala.
+
+![Captura de pantalla de Zara 1](./zara-1.png)
+
 
 ## Contexto
 

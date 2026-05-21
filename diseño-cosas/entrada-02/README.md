@@ -1,6 +1,6 @@
 # Entrada 02: Interruptores de luces
 
-![Fotografía de los interruptores](./luces.jpg)
+![interruptores](./portadaluces.png)
 
 ## Categoría
 
@@ -29,6 +29,9 @@ El principal problema es que el sistema no comunica claramente qué hace cada in
 Tenemos que aprender por prueba y error qué combinación activa cada modo de luces, lo cual hace que una acción tan simple como encender unas lices se vuelva confusa.
 
 Además, no existe retroalimentación visual que explique qué modo está activo o cuál interruptor corresponde a cada grupo de luces.
+
+![Fotografía de los interruptores](./luces.jpg)
+
 
 ## Principios de diseño relacionados
 

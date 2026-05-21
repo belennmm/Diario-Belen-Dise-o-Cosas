@@ -1,6 +1,6 @@
 # Entrada 01: Microondas 
 
-![Fotografía del microondas](./microondas.png)
+![portada microondas](./portadamicro.png)
 
 ## Categoría
 
@@ -29,6 +29,9 @@ El principal problema que identifiqué fue el diseño del panel que no se ve de 
 Para una tarea tan básica, como calentar comida debería ser fácil identificar la función de los botones. 
 
 Además, los botones tienen poco contraste visual.
+
+![Fotografía del microondas](./microondas.png)
+
 
 ## Principios de diseño relacionados
 

@@ -1,6 +1,6 @@
-# Entrada 03: Bocina portátil con controles poco visibles
+# Entrada 03: Bocina portátil
 
-![Fotografía de la bocina](./bocina.jpg)
+![bocina](./portadabocina.png)
 
 ## Categoría
 
@@ -29,6 +29,9 @@ El principal problema es que los controles importantes no son visibles.
 Cuando quiero cambiar el volumen o pausar una canción, tengo que girar la bocina o buscar los botones manualmente porque no se distinguen bien a simple vista.
 
 También considero que la falta de retroalimentación sobre el nivel de volumen hace que la experiencia sea poco clara.
+
+![Fotografía de la bocina](./bocina.jpg)
+
 
 ## Principios de diseño relacionados
 
