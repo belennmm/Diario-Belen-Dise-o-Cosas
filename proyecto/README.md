@@ -1,5 +1,7 @@
 # Proyecto: Reflexiones sobre el desarrollo del prototipo de Zara
 
+![Portada](./portadazara.png)
+
 ---
 
 # Entrada 01: Qué me pareció bien del objetivo del proyecto

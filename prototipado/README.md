@@ -1,0 +1,15 @@
+# Prototipado: Impresiones
+
+![Prototipado](./portadaproto.png)
+
+
+## Entrada 01
+
+## Fecha
+
+[21/05/2026]
+
+## Reflexión
+
+Algo que me pareció interesante durante el proceso fue que los usuarios sí lograron notar diferencias entre la versión original y el prototipo mejorado. A veces uno piensa que pequeños cambios no afectan mucho, pero durante las pruebas nos dimos cuenta que detalles simples sí pueden cambiar bastante la experiencia de uso.
+
