@@ -70,7 +70,7 @@ La interfaz rompe bastante este principio porque hay demasiados colores, tarjeta
 
 Cuando el usuario entra a un test o artículo equivocado no hay una navegación clara para regresar fácilmente al contenido anterior relacionado.
 
-![Captura de pantalla wikiHow 3](./wikihow-3.png)
+
 
 ### 10. Ayuda y documentación
 
