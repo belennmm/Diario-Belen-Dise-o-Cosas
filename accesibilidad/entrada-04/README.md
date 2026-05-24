@@ -1,4 +1,4 @@
-# Entrada 04: Lavamanos y problemas de accesibilidad
+# Entrada 04: Lavamanos
 
 ![Portada](./portadalavamanos.png)
 
