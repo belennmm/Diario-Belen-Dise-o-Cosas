@@ -22,3 +22,12 @@ Algo que me pareció interesante durante el proceso fue que los usuarios sí log
 [23/05/2026]
 
 Se presentaron problemas en la organización del NeuroLab, sin embargo, logramos solucionarlo en el momento. Para proximas clases de HCI sugiero mejor organización. 
+
+---
+
+# Entrada 03
+
+## Fecha
+
+[25/05/2026]
+Cuando llevamos a los participantes me pareció curioso que casi todos se tomaron entre 1-2 minutos en terminar las tareas. Como grupo estimábamos entre 3-5 minutos pero los usuarios lograron realizarlo en menor tiempo. 
