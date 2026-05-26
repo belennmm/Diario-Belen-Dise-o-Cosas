@@ -21,3 +21,19 @@ También me gustó que el proyecto no consistía únicamente en criticar la pág
 Considero que escoger Zara fue una buena decisión porque es una plataforma muy utilizada.
 
 ---
+
+# Entrada 02: Qué me pareció el proceso de prototipado
+
+## Fecha
+
+[25/05/2026]
+
+## Reflexión
+
+El proceso de prototipado me pareció interesante porque pudimos utilizar Figma para diseñar interfaces y experimentar con cambios visuales y estructurales. Antes no había trabajado tan a fondo con herramientas de prototipado y me gustó aprender cómo funcionan.
+
+Lo que sí me pareció un poco confuso fue tener que intentar replicar primero la página original de Zara para después realizar cambios. A veces sentía que estábamos invirtiendo mucho tiempo tratando de copiar algo que ya existía, cuando tal vez hubiera sido más directo comenzar desde el inicio con nuestras propias mejoras.
+
+Aun así, considero que el proceso ayudó a entender mejor cómo está construida una interfaz real y cómo pequeños cambios pueden afectar la experiencia de usuario. También aprendí que prototipar no es solamente “hacer pantallas bonitas”, sino pensar en navegación, organización, accesibilidad y facilidad de uso.
+
+Me gustó bastante experimentar con Figma porque permite visualizar rápidamente ideas y probar distintas soluciones antes de implementar algo real.
