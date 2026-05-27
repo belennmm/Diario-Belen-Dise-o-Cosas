@@ -56,3 +56,18 @@ Los sensores fueron probablemente la parte más interesante para mí porque nunc
 
 
 ---
+
+# Entrada 04: Qué no me gustó
+
+## Fecha
+
+[26/05/2026]
+
+## Reflexión
+
+Lo que menos me gustó del proyecto fue la falta de coordinación entre las instrucciones del NeuroLab y las instrucciones dadas en clase. Muchas veces existían cambios de último momento o información distinta dependiendo de quién explicaba el proceso, y eso generaba bastante confusión.
+
+Como era la primera vez implementando esta modalidad, siento que hubiera ayudado mucho tener una estructura más clara desde el inicio. En varios momentos tuvimos que reorganizar cosas o cambiar parte del trabajo porque las indicaciones iban modificándose.
+
+Aun así, considero que la idea del NeuroLab es muy buena. 
+
