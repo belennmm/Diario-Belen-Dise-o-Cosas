@@ -37,3 +37,22 @@ Lo que sí me pareció un poco confuso fue tener que intentar replicar primero l
 Aun así, considero que el proceso ayudó a entender mejor cómo está construida una interfaz real y cómo pequeños cambios pueden afectar la experiencia de usuario. También aprendí que prototipar no es solamente “hacer pantallas bonitas”, sino pensar en navegación, organización, accesibilidad y facilidad de uso.
 
 Me gustó bastante experimentar con Figma porque permite visualizar rápidamente ideas y probar distintas soluciones antes de implementar algo real.
+
+---
+
+# Entrada 03: Qué me pareció el NeuroLab
+
+## Fecha
+
+[26/05/2026]
+
+## Reflexión
+
+El NeuroLab me pareció una experiencia interesante porque tiene muchos equipos y herramientas que normalmente no se utilizan. Fue algo diferente. 
+
+Los sensores fueron probablemente la parte más interesante para mí porque nunca había trabajado con tecnología de ese tipo.
+
+![NeuroLab](./neurolab.png)
+
+
+---
