@@ -49,3 +49,19 @@ Cuando llevamos a los participantes me pareció curioso que casi todos se tomaro
 Algo que me llamó la atención durante las pruebas fue que muchas veces los usuarios intentaban interactuar con elementos que nosotros no esperábamos. Por ejemplo, algunas personas presionaban ciertas áreas pensando que eran botones o esperaban encontrar funciones en lugares distintos.
 
 Esto me ayudó a entender que cuando uno diseña una interfaz ya conoce cómo funciona porque pasó mucho tiempo viéndola, pero un usuario nuevo no piensa igual. Varias cosas que para nosotros parecían obvias realmente no lo eran para otras personas.
+
+---
+
+# Entrada 05
+
+## Fecha
+
+[27/05/2026]
+
+## Reflexión
+
+Después de terminar las pruebas y revisar los resultados del NeuroLab, sentí que el prototipado sí ayudó bastante a entender cómo las personas interactúan realmente con una página web.
+
+Durante el proyecto aprendí que la experiencia del usuario depende también de navegación, claridad, accesibilidad y facilidad para encontrar información.
+
+El prototipado ayudó a realizar un nuevo diseño centrado en el usuario.
