@@ -52,7 +52,7 @@ El NeuroLab me pareció una experiencia interesante porque tiene muchos equipos 
 
 Los sensores fueron probablemente la parte más interesante para mí porque nunca había trabajado con tecnología de ese tipo.
 
-![NeuroLab](./neurolab.png)
+![NeuroLab](./neurolab.jpg)
 
 
 ---
