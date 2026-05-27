@@ -71,3 +71,18 @@ Como era la primera vez implementando esta modalidad, siento que hubiera ayudado
 
 Aun así, considero que la idea del NeuroLab es muy buena. 
 
+# Entrada 05: Reflexión general del proyecto
+
+## Fecha
+
+[27/05/2026]
+
+## Reflexión
+
+Me gustó el concepto del proyecto. Siento que fue interesante analizar Zara desde un punto de vista distinto, porque normalmente uno usa páginas web sin pensar si son user-friendly. 
+
+También me gustó que el proyecto mezclara diseño, análisis y experimentación utilizando el NeuroLab. 
+
+Aunque sí existieron problemas de organización y cambios durante el proceso, considero que la experiencia ayudó bastante para aprender cómo funciona realmente el desarrollo y evaluación de prototipos.
+
+---
