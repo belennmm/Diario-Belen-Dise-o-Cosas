@@ -85,4 +85,16 @@ También me gustó que el proyecto mezclara diseño, análisis y experimentació
 
 Aunque sí existieron problemas de organización y cambios durante el proceso, considero que la experiencia ayudó bastante para aprender cómo funciona realmente el desarrollo y evaluación de prototipos.
 
+
+
 ---
+
+# Entrada 06: Posibles mejoras
+
+## Fecha
+
+[27/05/2026]
+
+## Reflexión
+
+Pienso que el proyecto tiene mucho potencial porque combina diseño, pruebas reales y análisis de experiencia de usuario. Al tener una mejor organización y mejor comunicación entre encargados del NeuroLab y docentes se tendrán mejores proyectos. 
